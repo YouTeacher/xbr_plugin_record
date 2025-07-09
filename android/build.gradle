@@ -48,4 +48,4 @@ dependencies {
     implementation "androidx.appcompat:appcompat:1.0.0"
     implementation 'com.github.RoleWong:AndroidAudioConverter:0.6'
 }
-kotlin {jvmToolchain(8)}
+kotlin {jvmToolchain(17)}
